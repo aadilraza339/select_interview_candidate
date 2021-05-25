@@ -14,8 +14,8 @@ Api to get highest scoring candidate and average scores per round for all candid
 
 
 ## HOW TO **RUN** 🏃‍ PROJECT <br>
-``git clone https://github.com/aadilraza339/select_interview_candidate.git``<br>
-``cd select_interview_candidate``<br>
+``git clone https://github.com/aadilraza339/selection_interview_candidate.git``<br>
+``cd selection_interview_candidate``<br>
 ``npm install``<br>
 ``config your .env`` <br>
 import dump.sql in your **MySql DB** <br>
@@ -25,7 +25,7 @@ import dump.sql in your **MySql DB** <br>
 ### I used these things to make this project. <br>
 ``Express``  ``knex`` ``mysql``
 <br>
-These are the endpoints Below you Can run them using postman, here is the link for download<a href="https://www.postman.com/downloads/">click here</a>
+These are the endpoints Below you Can run them using postman, here is the link for download <a href="https://www.postman.com/downloads/">click here</a>
  <br>
  ```javascript
  //Insert a candidate into database
